@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  box-sizing: border-box;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  border: 1px solid green;
+}
+ul {
+  display: flex;
+  flex-direction: row;
+  width: 80%;
+}
+li {
+  margin-right: 10px;
+  list-style: none;
+  display: inline-block;
+}
