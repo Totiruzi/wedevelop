@@ -1,0 +1,37 @@
+Onowu Christopher is inviting you to a scheduled Zoom meeting.
+
+Join Zoom Meeting
+https://us04web.zoom.us/j/3088927929?pwd=M1FFRmRvS1lXR2NCR2VvODd6YkhMZz09
+
+Meeting ID: 308 892 7929
+Password: 5Upmyj
+
+
+How does the Internet work
+
+https://www.youtube.com/watch?v=7_LPdttKXPc&feature=youtu.be&t=46s
+https://vimeo.com/128575085
+
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work
+
+Deffrence b/w web page,web server abd serch engine
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines
+
+what a browser is
+https://www.youtube.com/watch?v=BrXPcaRlBqo&feature=youtu.be
+
+How part of the web interact with one another and DNS request in action
+https://www.youtube.com/watch?v=72snZctFFtA&feature=youtu.be&t=45s
+
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works#Clients_and_servers
+
+
+HTML uTube
+https://www.youtube.com/watch?v=dD2EISBDjWM&list=PLr6-GrHUlVf_ZNmuQSXdS197Oyr1L9sPB&fbclid=IwAR1-FjJ1nfjo4ySTl9nwWD1qh0IecjpkcG-IM01T8zXHl-i7XagYymkY0GY
+
+https://www.youtube.com/watch?v=TKYsuU86-DQ&list=PL0eyrZgxdwhwNC5ppZo_dYGVjerQY3xYU&fbclid=IwAR31_TfecP4CXZwpObQlVb162U4_ltKAKY14F3__biQLyBaYHjMXHPEDxCw
+
+https://www.youtube.com/watch?v=Y1BlT4_c_SU&list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc&fbclid=IwAR0T6dTFOrBL5RkC2QpdmISAoCMDK1VfAwIvyc6VmEoSyIVrkSrTEbplJ5A
+
+CSS
+https://www.youtube.com/watch?v=I9XRrlOOazo&list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT&fbclid=IwAR1CTAwWku_ZttHC5cf8BHapm1ztllD9J3rnNjrML4IAivV2YR9uRpt7r_A

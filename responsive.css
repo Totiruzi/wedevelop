@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-color: lightgray;
+  box-sizing: border-box;
+}
+.wrapper {
+  text-align: center;
+  font-size: 30px;
+  font-family: Audiowide;
+}
+.img-box {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row-reverse;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+.photo {
+  width: 250px;
+  height: 250px;
+}
+.single-image {
+  /* margin: 10px; */
+  padding: 0 20px 20px ;
+}
+img:hover {
+  opacity: .5;
+  transition:all .9s;
+}
+a {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 16px;
+}
+h1 {
+  color: goldenrod;
+}
